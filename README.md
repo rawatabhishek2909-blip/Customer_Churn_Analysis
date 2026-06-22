@@ -77,7 +77,7 @@ still-active, month-to-month customers).
 churn by tenure bucket, and a set of retention recommendations translated
 into action items.
 
-*(Add your own screenshots to `/screenshots` once you export them from Power BI Service.)*
+
 
 ---
 
