@@ -112,15 +112,7 @@ into action items.
 
 ---
 
-## 📌 Resume Bullet
 
-> **Customer Churn Analysis Dashboard** | SQL · Power BI · DAX
-> Analyzed 7,043 telecom customer records using SQL window functions
-> (`NTILE`) and conditional aggregation to identify contract type and payment
-> method as primary churn drivers (42.7% vs. 2.8% churn across contract
-> types); built a 3-page Power BI dashboard with 14 DAX measures quantifying
-> $139K/month in lost revenue and $136K/month in revenue still at risk,
-> surfacing a prioritized high-risk customer watchlist for retention outreach.
 
 ---
 
