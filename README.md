@@ -78,7 +78,22 @@ churn by tenure bucket, and a set of retention recommendations translated
 into action items.
 
 
+<h2>Dashboard Preview</h2>
 
+<h3>Executive Overview</h3>
+<p align="center">
+  <img src="screenshots/Executive Overview.png" width="1000">
+</p>
+
+<h3>Risk Segmentation</h3>
+<p align="center">
+  <img src="screenshots/Risk Segmentation.png" width="1000">
+</p>
+
+<h3>Revenue Impact</h3>
+<p align="center">
+  <img src="screenshots/Revenue impact.png" width="1000">
+</p>
 ---
 
 ## ⚙️ How to Reproduce
